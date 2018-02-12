@@ -20,11 +20,14 @@
 127.0.0.1 ad.bayescom.com
 
 #QQ Social advertising
-127.0.0.1 gdt.qq.com
 127.0.0.1 mi.gdt.qq.com
+127.0.0.1 c.gdt.qq.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 oth.eve.mdt.qq.com:8080
+127.0.0.1 qzs.qq.com
+127.0.0.1 h5.qzone.qq.com
+127.0.0.1 mobile.qzone.qq.com
 
 #Baidu  advertising
 127.0.0.1 mobads-logs.baidu.com
@@ -43,11 +46,7 @@
 #jizhaopin advertising
 127.0.0.1 api.92du.cn
 
-#QQ
-127.0.0.1 h5.qzone.qq.com
-127.0.0.1 c.gdt.qq.com
-127.0.0.1 mobile.qzone.qq.com
-127.0.0.1 qzs.qq.com
+
 
 #Youdao Note
 127.0.0.1 oimagea1.ydstatic.com
@@ -80,7 +79,7 @@
 127.0.0.1 policy.jd.com
 127.0.0.1 wx.qlogo.cn
 
-#Cloud Music
+#Netease Cloud Music
 127.0.0.1 p2.music.126.net
 127.0.0.1 p3.music.126.net
 127.0.0.1 p4.music.126.net
