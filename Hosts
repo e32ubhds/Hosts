@@ -1,9 +1,47 @@
-#2017.08.17
-#DongManZhiJia
-127.0.0.1 mobads.baidu.com
-127.0.0.1 mobads-logs.baidu.com
-127.0.0.1 ubmcmm.baidustatic.com
+# 2018-02-09 v4
+
+#Yahoo flurry Logs Analysis
+127.0.0.1 data.flurry.com
+
+#Crashlytics Logs Analysis
+127.0.0.1 e.crashlytics.com
+
+#Talkingdata Logs Analysis
+127.0.0.1 av1.xdrig.com
+
+#Appjiagu
+127.0.0.1 f.appjiagu.com
+
+#Umeng advertising
+127.0.0.1 alog.umeng.com
+127.0.0.1 alog.umengcloud.com
+
+#Baye advertising
 127.0.0.1 ad.bayescom.com
+
+#QQ Social advertising
+127.0.0.1 gdt.qq.com
+127.0.0.1 mi.gdt.qq.com
+127.0.0.1 sdk.e.qq.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 oth.eve.mdt.qq.com:8080
+
+#Baidu  advertising
+127.0.0.1 mobads-logs.baidu.com
+127.0.0.1 mobads.baidu.com
+127.0.0.1 wn.pos.baidu.com
+127.0.0.1 ubmcmm.baidustatic.com
+127.0.0.1 cpro.baidustatic.com
+
+#Inmobi advertising
+127.0.0.1 config.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 au.w.inmobi.cn
+127.0.0.1 et.w.inmobi.cn
+
+
+#jizhaopin advertising
+127.0.0.1 api.92du.cn
 
 #QQ
 127.0.0.1 h5.qzone.qq.com
